@@ -1,0 +1,10 @@
+environment;database;path;last_modified;year;month;day
+production;tb_raw_mydatabase_01;s3:/tb_raw_mydatabase_01;20200101120000;2021;1;1
+production;tb_raw_mydatabase_02;s3:/tb_raw_mydatabase_02;20200101120000;2021;1;1
+production;tb_raw_mydatabase_03;s3:/tb_raw_mydatabase_03;20200101120000;2021;1;1
+production;tb_raw_mydatabase_01;s3:/tb_raw_mydatabase_01;20200201120000;2021;2;1
+production;tb_raw_mydatabase_02;s3:/tb_raw_mydatabase_02;20200201120000;2021;2;1
+production;tb_raw_mydatabase_03;s3:/tb_raw_mydatabase_03;20200201120000;2021;2;1
+production;tb_raw_mydatabase_01;s3:/tb_raw_mydatabase_01;20200301120000;2021;3;1
+production;tb_raw_mydatabase_02;s3:/tb_raw_mydatabase_02;20200301120000;2021;3;1
+production;tb_raw_mydatabase_03;s3:/tb_raw_mydatabase_03;20200301120000;2021;3;1

@@ -1,0 +1,15 @@
+{
+    "name": "tb_raw_mydatabase_03",
+    "title": "Minha tabela",
+    "owner_org": "bank",
+    "notes": "Base carregada por processo automatico",
+    "author": "dorotheu",
+    "author_email": "dorotheu@teste.com",
+    "private": true,
+    "extras": [
+        {
+            "key": "badge",
+            "value": "silver"
+        }
+    ]
+}
