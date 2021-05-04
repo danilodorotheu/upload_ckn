@@ -1,0 +1,16 @@
+﻿environment;database;column;type;comment;year;month;day
+production;tb_raw_mydatabase_01;coluna1;text;Alteracao de coluna;2021;7;1
+production;tb_raw_mydatabase_01;coluna2;text;Alteracao de coluna;2021;7;1
+production;tb_raw_mydatabase_01;coluna3;text;Alteracao de coluna;2021;7;1
+production;tb_raw_mydatabase_01;coluna4;text;Alteracao de coluna;2021;7;1
+production;tb_raw_mydatabase_01;coluna5;text;Alteracao de coluna;2021;7;1
+production;tb_raw_mydatabase_01;coluna6;text;Alteracao de coluna;2021;7;1
+production;tb_raw_mydatabase_01;coluna7;text;Alteracao de coluna;2021;7;1
+production;tb_raw_mydatabase_01;coluna1;text;Alteracao de coluna;2021;8;1
+production;tb_raw_mydatabase_01;coluna2;text;Alteracao de coluna;2021;8;1
+production;tb_raw_mydatabase_01;coluna3;text;Alteracao de coluna;2021;8;1
+production;tb_raw_mydatabase_01;coluna4;text;Alteracao de coluna;2021;8;1
+production;tb_raw_mydatabase_01;coluna5;text;Alteracao de coluna;2021;8;1
+production;tb_raw_mydatabase_01;coluna6;text;Alteracao de coluna;2021;8;1
+production;tb_raw_mydatabase_01;coluna7;text;Alteracao de coluna;2021;8;1
+production;tb_raw_mydatabase_01;coluna8;text;Nova coluna        ;2021;8;1
